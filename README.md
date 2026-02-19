@@ -1,6 +1,6 @@
 # 🤖 Browser Bot's Web Workshop
 
-A fully interactive, single-page tutorial for learning HTML and CSS. Learn by chatting with "Browser Bot," build hands-on projects, and see your code come to life in a real-time preview window. This entire app runs 100% in your browser with no backend required.
+A fully interactive, single-page tutorial for learning HTML and CSS. Learn by chatting with "Browser Bot" build hands-on projects, and see your code come to life in a real-time preview window. This entire app runs 100% in your browser with no backend required.
 
 ## ✨ Features
 
